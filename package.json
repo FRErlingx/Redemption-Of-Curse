@@ -1,7 +1,7 @@
 {
     "name": "Redemption-of-Curse",
     "preductname": "Redemption Of Curse Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher of Redemption Of Curse Launcher",
     "main": "src/app.js",
     "author": {
